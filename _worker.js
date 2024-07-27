@@ -17,11 +17,11 @@ let addressesapi = [
 
 // 设置优选地址，不带端口号默认80，noTLS订阅生成
 let addressesnotls = [
-	'www.gco.gov.qa:80#官方优选域名',
-	'download.yunzhongzhuan.com:80#官方优选域名',
-	'www.visa.com.tw:80#官方优选域名',
-	'www.ipchicken.com:80#官方优选域名',
-	'www.ipaddress.my:80#官方优选域名',
+	'www.gco.gov.qa:80#官方优选域名1',
+	'download.yunzhongzhuan.com:80#官方优选域名2',
+	'www.visa.com.tw#官方优选域名3',
+	'www.ipchicken.com#官方优选域名4',
+	'www.ipaddress.my#官方优选域名5',
 ];
 
 // 设置优选noTLS地址api接口
