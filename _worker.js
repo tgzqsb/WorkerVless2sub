@@ -17,6 +17,7 @@ let addresses = [
 // 设置优选地址api接口
 let addressesapi = [
 	'https://cf-workers-text2kv-9nt.pages.dev/ipyx?token=bijiben', //可参考内容格式 自行搭建。
+	'https://cf-workers-text2kv-9nt.pages.dev/ipv6?token=bijiben', //IPv6优选内容格式 自行搭建。
 	//'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesipv6api.txt', //IPv6优选内容格式 自行搭建。
 ];
 
